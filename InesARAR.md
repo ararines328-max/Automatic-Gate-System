@@ -1,5 +1,4 @@
-# Automatic Gate System (AGS)
-
+# Contribution personnelle ARAR Ines- Partie : Montage physique du système 
 ## Présentation du projet
 Le projet **Automatic Gate System (AGS)** consiste à réaliser un système de barrière automatique intelligente capable de détecter un véhicule, de transmettre l’information via une communication LoRa, puis de commander l’ouverture automatique d’une barrière.
 
